@@ -1,2 +1,3 @@
 # Seckill
-根据慕课网上的课程*JAVA高并发秒杀API*完成的项目，用到了**Maven+SSM+Bootstrap+JQuery**等技术，实现了一个秒杀商品的前后端，相关课程请见[IMOOC](http://www.imooc.com/learn/587)。
+因个人兴趣创建了一个秒杀商品的网页，使用Spring+SpringMVC+MyBatis做后台，数据存放在MySql数据库中，用restful接口实现前后端的数据交互，实现了一个能计时到点开放秒杀商品服务的系统，并将此网站发布在腾讯云的Linux服务器中，能在线查看http://seckill.204d.cn/list。
+相关项目见[SECKILL](http://seckill.204d.cn/list)。
